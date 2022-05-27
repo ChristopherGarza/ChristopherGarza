@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristopherGarza
-- 👀 I’m interested in iOS development
+- 💻 I’m interested in iOS development
 
 <!---
 ChristopherGarza/ChristopherGarza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
