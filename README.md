@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristopherGarza
+- 👋 Hi, I’m Chris
 - 💻 I’m interested in iOS development
 
 <!---
